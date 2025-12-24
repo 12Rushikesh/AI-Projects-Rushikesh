@@ -1,0 +1,7 @@
+names:
+  0: dent
+  1: hole
+  2: rust
+path: D:\Rushikesh\project\AI Agent\damage-ai-agent\data\dataset
+train: images/train
+val: images/val
